@@ -3,6 +3,13 @@
   "theme": "syntax",
   "version": "0.4.0",
   "description": "A light syntax theme based on colors from the base16 ocean palette.",
+  "keywords": [
+    "base16-ocean",
+    "base16",
+    "ocean",
+    "light",
+    "theme"
+  ],
   "repository": "https://github.com/mmcbride1007/electron-light-syntax",
   "license": "MIT",
   "engines": {
