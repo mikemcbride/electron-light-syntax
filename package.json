@@ -1,7 +1,7 @@
 {
   "name": "electron-light-syntax",
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A light syntax theme based on colors from the base16 ocean palette.",
   "keywords": [
     "base16-ocean",
